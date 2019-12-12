@@ -1,2 +1,2 @@
 # lawfirm
-lawfirm a full desingned website html and css
+Law firm a full designed website html and css
